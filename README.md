@@ -1,17 +1,11 @@
-# Topics in Software Engineering
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# Project name: Indubious
+Forecasting analytics app
+# Problem statement: 
+A web app that requires data from a user, and provides forecasts of the data. The app is aimed to let the user see what kind of variables they can change to have a desired outcome of the other variables.
 
-# Tools
-The tools that are installed with this devcontainer are:
+# Target user:
+The app is aimed to let anyone that has a data table to make decisions using data analysis methods and mathematical approximations that are provided in a user friendly manner for anyone to interact with.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
-
-# Project idea
+Examples:
+- A user that has been tracing their medication intake and their physical health measures with addition to other variables if there are correlations with their health or not.
+- A person is trying to finance a new laptop, but they are working part time and have to pay for daily life resources. By making a table of their income and payments, they can make near future predictions of how much they need to change in their life style.
